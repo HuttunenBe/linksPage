@@ -1,7 +1,7 @@
 # 🌐 Professional Links Webpage
 
 A simple webpage to browse my professional links, including GitHub, portfolio, LinkedIn and CV. <br></br>
-[Open links page](https://links-page-jade.vercel.app/)
+[Open links page in Vercel](https://links-page-jade.vercel.app/)
 
 
 ## 🛠 Tech Stack
