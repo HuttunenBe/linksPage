@@ -16,8 +16,8 @@ body {
   background-color: #1e1e1e;
   position: relative;
   width: 380px;
+  margin-top: 8rem;
   text-align: center;
-  margin-top: 4rem;
   padding: 3rem 2rem 2rem;
   border-radius: 20px;
   box-shadow: 0 15px 35px rgba(0, 0, 0, 0.5);
@@ -127,4 +127,10 @@ h1 {
 
 .card:hover #welcomeMessage {
   color: #ce6bf6;
+}
+
+@media (max-width: 768px) {
+  .card {
+    margin-top: 10rem;
+  }
 }
